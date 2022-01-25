@@ -1,4 +1,4 @@
-package ptc.tech.jet_components.theme
+package com.acaziasoft.basiccomponent.theme
 
 
 import androidx.compose.ui.graphics.Color
